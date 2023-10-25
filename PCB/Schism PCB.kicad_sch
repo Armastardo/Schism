@@ -3749,6 +3749,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 223.8248 167.64 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 03dce724-2439-4d91-b236-bf4e77078326)
+    (property "Reference" "H3" (at 227.4824 166.37 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "qw-logo" (at 227.0252 167.64 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "qw-logo:qw new logo silk + copper md" (at 223.8248 167.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 223.8248 167.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H3") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 163.7538 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 04c03d95-f14a-4f17-93e1-1dde63921ef6)
@@ -4758,6 +4782,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 238.8108 167.7416 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 3715149c-cd93-4e63-9dff-f2aa7e16b524)
+    (property "Reference" "H9" (at 242.4684 166.4716 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "1999-logo" (at 242.0112 167.7416 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "1999:1999 logo md" (at 238.8108 167.7416 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 238.8108 167.7416 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H9") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 102.7684 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 377f33ec-0013-49d3-9243-6ae231652052)
@@ -5121,6 +5169,30 @@
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
           (reference "#PWR013") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 238.9124 162.6108 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 440b425b-f068-40c5-af13-e071824e7892)
+    (property "Reference" "H8" (at 242.57 161.3408 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "1999-logo" (at 242.1128 162.6108 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "1999:1999 logo md" (at 238.9124 162.6108 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 238.9124 162.6108 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H8") (unit 1)
         )
       )
     )
@@ -6095,6 +6167,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 239.4204 172.5168 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 6dd8963f-e97a-4ced-945e-fbbbed0a032c)
+    (property "Reference" "H10" (at 243.078 171.2468 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "1999-logo" (at 242.6208 172.5168 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "1999:1999 logo md" (at 239.4204 172.5168 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 239.4204 172.5168 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H10") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 284.988 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e5d5a6d-df6d-4ef7-8a82-db381dc7a518)
@@ -6238,6 +6334,30 @@
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
           (reference "#PWR050") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 239.522 177.8508 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 7f8218e0-3b76-43a9-9ec3-27da549ada9d)
+    (property "Reference" "H11" (at 243.1796 176.5808 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "1999-logo" (at 242.7224 177.8508 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "1999:1999 logo md" (at 239.522 177.8508 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 239.522 177.8508 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H11") (unit 1)
         )
       )
     )
@@ -6831,6 +6951,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 223.774 162.4584 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 95b09c6a-f0c9-48e9-923d-dcac7ac3d894)
+    (property "Reference" "H2" (at 227.4316 161.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "qw-logo" (at 226.9744 162.4584 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "qw-logo:qw new logo silk + copper sm" (at 223.774 162.4584 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 223.774 162.4584 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H2") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+1V1") (at 21.844 97.155 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 981fcc40-3726-487c-8cee-2eca0cfeda7a)
@@ -6992,6 +7136,30 @@
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
           (reference "#PWR045") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 224.1296 183.0832 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 9e048e30-4be7-4b4b-9cd6-393cb80c813b)
+    (property "Reference" "H6" (at 227.7872 181.8132 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "qw-logo" (at 227.33 183.0832 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "qw-logo:qw new logo silk + copper md" (at 224.1296 183.0832 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 224.1296 183.0832 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H6") (unit 1)
         )
       )
     )
@@ -7560,6 +7728,30 @@
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
           (reference "D1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 239.4204 182.9816 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid b79b309c-98fb-4b50-aee6-6fc55ffa8d8a)
+    (property "Reference" "H12" (at 243.078 181.7116 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "1999-logo" (at 242.6208 182.9816 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "1999:1999 logo md" (at 239.4204 182.9816 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 239.4204 182.9816 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H12") (unit 1)
         )
       )
     )
@@ -8158,6 +8350,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 238.8108 157.2768 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid d8a5e84b-a0cd-45d6-9e27-a5d83ce01da7)
+    (property "Reference" "H7" (at 242.4684 156.0068 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "1999-logo" (at 242.0112 157.2768 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "1999:1999 logo md" (at 238.8108 157.2768 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 238.8108 157.2768 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H7") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 166.9034 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9be380c-c3d3-401b-b39c-a4e83ee79ce8)
@@ -8188,6 +8404,30 @@
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
           (reference "#PWR030") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 223.9772 173.1264 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid da3b52c5-a379-4cd5-bb60-8c48d2e715e9)
+    (property "Reference" "H4" (at 227.6348 171.8564 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "qw-logo" (at 227.1776 173.1264 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "qw-logo:qw new logo silk + copper md" (at 223.9772 173.1264 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 223.9772 173.1264 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H4") (unit 1)
         )
       )
     )
@@ -8345,6 +8585,30 @@
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
           (reference "MX42") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 224.0788 177.9016 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid e8b80262-6afe-47c6-bd03-15f3f33f9caf)
+    (property "Reference" "H5" (at 227.7364 176.6316 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "qw-logo" (at 227.2792 177.9016 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "qw-logo:qw new logo silk + copper md" (at 224.0788 177.9016 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 224.0788 177.9016 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H5") (unit 1)
         )
       )
     )
@@ -8589,6 +8853,30 @@
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
           (reference "MX16") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 223.6724 157.6832 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid f87c4efd-afde-4c52-a95d-1498bd3bcf14)
+    (property "Reference" "H1" (at 227.33 156.4132 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "qw-logo" (at 226.8728 157.6832 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "qw-logo:qw new logo silk + copper sm" (at 223.6724 157.6832 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 223.6724 157.6832 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Schism PCB"
+        (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
+          (reference "H1") (unit 1)
         )
       )
     )
