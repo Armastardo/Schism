@@ -3564,14 +3564,14 @@
     (property "Value" "MX_SW_solder" (at 291.9984 77.0128 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 291.9984 72.4408 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 291.9984 72.4408 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 291.9984 72.4408 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0dde4965-b1c8-419b-b70c-e4d012174fa6))
-    (pin "2" (uuid 805cd0ff-fd74-4720-a031-9f05300a15e6))
+    (pin "1" (uuid f304ef9f-11fb-44c3-9759-ea2d36bd0078))
+    (pin "2" (uuid 11e86271-39d2-4c14-9976-e95f64eb47df))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -4290,14 +4290,14 @@
     (property "Value" "MX_SW_solder" (at 290.0172 58.674 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 290.0172 54.102 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 290.0172 54.102 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 290.0172 54.102 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b01f755-938e-4904-8360-d742d12de34c))
-    (pin "2" (uuid b073ad27-8d21-4c6f-a3fe-55605f9afc2b))
+    (pin "1" (uuid 4c760113-4908-45ba-b74e-f600ace73317))
+    (pin "2" (uuid c45e4b01-183e-4e7f-9085-7d90c1d8e291))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -4316,14 +4316,14 @@
     (property "Value" "MX_SW_HS" (at 303.6824 103.7844 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 303.6824 109.22 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 303.6824 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 303.6824 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b2f3be4-e263-430f-9dfd-b32d609bf6db))
-    (pin "2" (uuid 768592f0-9a9a-454d-b3f8-fbe74f4b5cc7))
+    (pin "1" (uuid 9b8a9a7b-a45e-4363-bf61-f8f293289d46))
+    (pin "2" (uuid 0b706533-a42e-4c45-9842-d6ad6289491d))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -4342,14 +4342,14 @@
     (property "Value" "MX_SW_solder" (at 312.7248 77.7748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 312.7248 73.2028 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 312.7248 73.2028 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 312.7248 73.2028 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid be31d367-8f41-4319-acc2-83ba779fc1e1))
-    (pin "2" (uuid b41dbb74-4e37-4c36-a6f0-289f4bd44f40))
+    (pin "1" (uuid ec50449f-05d5-4d00-837a-aa361b43b618))
+    (pin "2" (uuid 4747e005-846c-4ae8-afe7-167e32de711a))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -4521,14 +4521,14 @@
     (property "Value" "MX_SW_solder" (at 233.0196 74.2696 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 233.0196 69.6976 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 233.0196 69.6976 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 233.0196 69.6976 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8e9e86e-1858-4db9-b03e-79d9e485d1ad))
-    (pin "2" (uuid c028a643-2f53-4960-bd9e-9580b7f42d77))
+    (pin "1" (uuid 01995bca-5e12-4634-9533-388ae1285fc4))
+    (pin "2" (uuid a1f84657-924e-4d32-aea1-f5d6cc6ca9cf))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -4691,14 +4691,14 @@
     (property "Value" "MX_SW_solder" (at 303.6824 113.792 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 303.6824 109.22 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 303.6824 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 303.6824 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a62352fb-faa5-44c3-aa77-b22ee7273141))
-    (pin "2" (uuid 35bdfcc8-6fc0-4e28-85ab-2844203c691f))
+    (pin "1" (uuid 148a53b1-3a6c-470f-97c3-9626916fae79))
+    (pin "2" (uuid 7601f194-a317-4968-a70e-0b91862f07cc))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -4889,14 +4889,14 @@
     (property "Value" "MX_SW_solder" (at 248.8692 98.3996 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 248.8692 93.8276 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 248.8692 93.8276 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.8692 93.8276 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4caf8ce2-379a-463d-a470-e43d778a53c5))
-    (pin "2" (uuid 051f7e8f-403b-41c8-9c94-abae8e45eea9))
+    (pin "1" (uuid 1625b371-019b-44e5-b88a-973aa684a734))
+    (pin "2" (uuid f37f935f-56e4-4287-9e9f-d2200ac9abf6))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5122,14 +5122,14 @@
     (property "Value" "MX_SW_HS" (at 293.6748 108.458 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 293.6748 113.8936 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 293.6748 113.8936 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 293.6748 113.8936 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1aafd3b2-6dbb-41c9-adce-d15fa18aa7b9))
-    (pin "2" (uuid 71bf38b2-b904-4be9-b130-3e4b9dce8181))
+    (pin "1" (uuid 312a1004-8109-4129-ad97-d823eb845dd2))
+    (pin "2" (uuid a815c897-e749-441f-8db3-20f8ad37cdad))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5246,14 +5246,14 @@
     (property "Value" "MX_SW_HS" (at 248.8692 88.392 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 248.8692 93.8276 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 248.8692 93.8276 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.8692 93.8276 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 075e5202-443d-4011-bb52-6105a5d00a46))
-    (pin "2" (uuid ca001448-7088-43e9-8a17-19839f30c0e2))
+    (pin "1" (uuid 5397c189-d6ff-4b2c-96ff-f01b9a0ab480))
+    (pin "2" (uuid f8889845-a762-45c0-8f08-9121158fed3b))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5307,14 +5307,14 @@
     (property "Value" "MX_SW_solder" (at 302.1584 56.6928 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 302.1584 52.1208 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 302.1584 52.1208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 302.1584 52.1208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7bded599-8f26-480e-95b9-3fb170d2e5e6))
-    (pin "2" (uuid c9990e35-040f-4754-b844-1ab483776f56))
+    (pin "1" (uuid 9b052695-628f-41f0-b196-c051ae7444d5))
+    (pin "2" (uuid 63414e47-3d43-4e62-accd-d039d36cc702))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5333,14 +5333,14 @@
     (property "Value" "MX_SW_HS" (at 240.1824 92.5068 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 240.1824 97.9424 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 240.1824 97.9424 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.1824 97.9424 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5c5bfc63-476f-4397-8d4d-3326976f0d0c))
-    (pin "2" (uuid 6f15ed71-0106-4db2-880c-1f008605ee0b))
+    (pin "1" (uuid 8042e424-f74f-415b-895d-06d005479cd3))
+    (pin "2" (uuid 49128c08-4d78-48f4-9044-617aa3418b91))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5482,14 +5482,14 @@
     (property "Value" "MX_SW_HS" (at 302.1584 46.6852 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 302.1584 52.1208 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 302.1584 52.1208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 302.1584 52.1208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 22f6185b-ff03-4867-8fa8-d83dede2818e))
-    (pin "2" (uuid d2e7bf03-5ae0-4030-a575-954ac9f9d5a1))
+    (pin "1" (uuid be9500dd-1338-44ae-8893-d7fa543e104c))
+    (pin "2" (uuid cde3fd20-45da-4f56-b251-360ffe032f29))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5645,14 +5645,14 @@
     (property "Value" "MX_SW_solder" (at 282.448 79.502 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 282.448 74.93 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 282.448 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 282.448 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f0c867ec-8229-4625-aabe-41cddcd22ca9))
-    (pin "2" (uuid 4eca5943-e6f2-4d8c-9b14-35152702be51))
+    (pin "1" (uuid a64e5bc8-83d5-4ed9-a6f8-eccd59b07764))
+    (pin "2" (uuid 49a9ab34-1fdf-4a5d-bda2-a63c0b05a3a4))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5780,14 +5780,14 @@
     (property "Value" "MX_SW_HS" (at 247.5263 112.4333 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 247.5263 117.8689 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 247.5263 117.8689 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.5263 117.8689 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e47d987-87e7-4dff-adc4-8343073d3ad3))
-    (pin "2" (uuid 99af0fb7-f693-48c9-aea5-8d24ec95b761))
+    (pin "1" (uuid c53a6dce-3a75-4de7-9813-c243043bc008))
+    (pin "2" (uuid f9e69464-96c3-475a-a36b-669414a01bcc))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5841,14 +5841,14 @@
     (property "Value" "MX_SW_HS" (at 283.8196 93.472 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 283.8196 98.9076 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 283.8196 98.9076 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 283.8196 98.9076 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf5b3dc9-6c77-42f7-987d-642e395dea46))
-    (pin "2" (uuid a0cc5c4a-3f71-4d6e-8495-40357465f20b))
+    (pin "1" (uuid 8fc3c08e-df88-4697-93b0-4fa07abec187))
+    (pin "2" (uuid 8ca1b0c6-5647-4b35-99a2-8834a18447f6))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -5906,14 +5906,14 @@
     (property "Value" "MX_SW_solder" (at 312.0644 56.4896 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 312.0644 51.9176 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 312.0644 51.9176 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 312.0644 51.9176 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5addd86f-b062-401d-8706-f3fdb69a7d67))
-    (pin "2" (uuid 7d5d63d8-d41e-4512-91be-1df054002076))
+    (pin "1" (uuid ead2720f-04dd-494f-a7b2-29280f7ddc98))
+    (pin "2" (uuid 2148ff47-0c06-4e6e-a75f-32a8d20b2be7))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6045,14 +6045,14 @@
     (property "Value" "MX_SW_HS" (at 312.0644 46.482 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 312.0644 51.9176 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 312.0644 51.9176 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 312.0644 51.9176 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 128179a9-6338-4c88-a12e-9e5f4f82edf6))
-    (pin "2" (uuid ab7b8fcd-691b-4ab9-b737-1dde7cedeaa8))
+    (pin "1" (uuid a4d9a520-a217-4df8-a2c6-0a33d68043bc))
+    (pin "2" (uuid c16af9fe-45b0-4e05-9352-0462a20a98b5))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6071,14 +6071,14 @@
     (property "Value" "MX_SW_solder" (at 240.1824 102.5144 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 240.1824 97.9424 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 240.1824 97.9424 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.1824 97.9424 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4568ace9-129f-456c-8c09-320d7363ab1c))
-    (pin "2" (uuid 635ad2c8-e0d9-4fb4-83df-4855fd0bef1c))
+    (pin "1" (uuid 35fb791d-b3a6-4bd9-8d54-d41746d784a9))
+    (pin "2" (uuid 33fd04e9-d20b-4934-bee6-a4c632ab2c22))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6473,14 +6473,14 @@
     (property "Value" "MX_SW_HS" (at 293.4716 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 293.4716 93.0656 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 293.4716 93.0656 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 293.4716 93.0656 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e2e5e43c-707e-499b-8f3f-cab660872e84))
-    (pin "2" (uuid b59b0470-cb58-4906-8181-e62b2361323c))
+    (pin "1" (uuid af92f67e-3be7-4d55-afa0-58dd8e589134))
+    (pin "2" (uuid b14e1ef2-826c-4755-9130-1f0a693060a9))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6534,14 +6534,14 @@
     (property "Value" "MX_SW_HS" (at 213.4108 70.5612 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 213.4108 75.9968 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 213.4108 75.9968 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.4108 75.9968 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ab257203-309d-42b1-aa52-570495bb5271))
-    (pin "2" (uuid 233eec2c-3f07-4394-be4c-bee71558b25c))
+    (pin "1" (uuid b1c025ee-7abc-462d-90a1-ed49cf846a7b))
+    (pin "2" (uuid f5089899-7378-4c26-9412-4ab59238c6c9))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6599,14 +6599,14 @@
     (property "Value" "MX_SW_HS" (at 291.9984 67.0052 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 291.9984 72.4408 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 291.9984 72.4408 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 291.9984 72.4408 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0031f53e-d8e5-48bd-b8f5-b57a70b464b7))
-    (pin "2" (uuid 591b76d5-4c41-4e3c-9abf-bd367482936b))
+    (pin "1" (uuid 1ac12c76-8ff2-41a5-ad9d-29affc993482))
+    (pin "2" (uuid 35033b98-ad85-421f-b444-894b2eadbd0e))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6664,14 +6664,14 @@
     (property "Value" "MX_SW_HS" (at 222.25 65.8876 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 222.25 71.3232 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 222.25 71.3232 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 222.25 71.3232 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 13dcffa3-554f-4558-b463-b0326602d7b0))
-    (pin "2" (uuid 31354770-a9e7-46a0-9ffe-c6e1e787805e))
+    (pin "1" (uuid 098b324f-2d0a-4064-8fce-121fa2e7d2c7))
+    (pin "2" (uuid 10125576-de40-4ae6-9cf5-bff6a5e7fa90))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6690,14 +6690,14 @@
     (property "Value" "MX_SW_HS" (at 301.3456 65.6844 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 301.3456 71.12 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 301.3456 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 301.3456 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4f16a593-1843-41f7-8219-b6ae5e9275b3))
-    (pin "2" (uuid cf1a72d3-4683-4567-8864-f7e9d3d5715f))
+    (pin "1" (uuid e1b1346d-93f5-4eea-82ca-10a907d35a04))
+    (pin "2" (uuid 3beece5c-d052-42d3-b5d2-b349e652f7f9))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -6751,14 +6751,14 @@
     (property "Value" "MX_SW_solder" (at 213.4108 80.5688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 213.4108 75.9968 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 213.4108 75.9968 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.4108 75.9968 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c5f55674-3f20-4546-961a-94891cd19127))
-    (pin "2" (uuid af56bd03-a1ad-4e10-8674-874c2894fb31))
+    (pin "1" (uuid a1150369-bf70-4f28-a6d1-32b5cf646ddc))
+    (pin "2" (uuid ac3502dd-d916-41c6-b1ba-7e6c36ae884b))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -7054,14 +7054,14 @@
     (property "Value" "MX_SW_solder" (at 284.226 123.2408 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 284.226 118.6688 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 284.226 118.6688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 284.226 118.6688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9dbd52ac-edea-49ea-b1ad-25b03599a87b))
-    (pin "2" (uuid 3d92eea8-e9a9-4d03-b9c1-1827912ae36f))
+    (pin "1" (uuid 5b6ab1d4-2314-4fa7-9ac8-bc371b00ecd8))
+    (pin "2" (uuid 59981ab6-db35-48a7-a4d8-db609cfaa51c))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -7310,14 +7310,14 @@
     (property "Value" "MX_SW_solder" (at 293.6748 118.4656 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 293.6748 113.8936 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 293.6748 113.8936 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 293.6748 113.8936 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ce74cb7-839b-4149-a5e9-f53d6d11d328))
-    (pin "2" (uuid 4f795579-f822-4bd4-87ac-219b3efdc4d5))
+    (pin "1" (uuid 1083de45-e1b9-4aaa-a453-db34626e34e6))
+    (pin "2" (uuid eff2daa3-dff8-422b-bea6-59068c1625c1))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -7449,14 +7449,14 @@
     (property "Value" "MX_SW_solder" (at 280.9748 61.2648 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 280.9748 56.6928 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 280.9748 56.6928 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 280.9748 56.6928 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dcdda72d-54a7-4b50-907a-9fc1476b634e))
-    (pin "2" (uuid f48dca0f-28e0-44b7-ab1e-832b109c2857))
+    (pin "1" (uuid 6d8354f0-8140-418b-8539-696322027c48))
+    (pin "2" (uuid 5188f591-3d21-4ce8-a012-1788a36a019c))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -7607,14 +7607,14 @@
     (property "Value" "MX_SW_HS" (at 282.448 69.4944 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 282.448 74.93 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 282.448 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 282.448 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 50480f82-67f4-4683-a68c-05797a52c6ab))
-    (pin "2" (uuid 608c7128-3be4-48aa-bfe3-389e7abf13e4))
+    (pin "1" (uuid 9259438d-3a96-4890-9d30-27dc1cbd43b9))
+    (pin "2" (uuid f66acc6e-6b11-401a-8ec4-fc0207a8c089))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -7844,14 +7844,14 @@
     (property "Value" "MX_SW_HS" (at 290.0172 48.6664 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 290.0172 54.102 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 290.0172 54.102 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 290.0172 54.102 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 91f7f8e6-3a6e-4dd6-95b4-3d2556d23b72))
-    (pin "2" (uuid bd2663f6-fa63-4648-8323-d6f2db71343d))
+    (pin "1" (uuid ace593ce-b79f-4130-8680-013879e27cac))
+    (pin "2" (uuid d7f9e787-131c-44cc-b7be-5e51b20d39b6))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -7975,14 +7975,14 @@
     (property "Value" "MX_SW_HS" (at 312.7248 67.7672 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 312.7248 73.2028 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 312.7248 73.2028 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 312.7248 73.2028 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bdb865ec-6e8b-46cd-8c7a-9286a1f0fc5e))
-    (pin "2" (uuid fea96734-5833-4a5e-a889-a73dfa559002))
+    (pin "1" (uuid ec31e958-876e-4266-a744-8e0f59f7d666))
+    (pin "2" (uuid a814b97a-fbc8-4197-b3ee-057eadb4f96c))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8001,14 +8001,14 @@
     (property "Value" "MX_SW_HS" (at 280.9748 51.2572 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 280.9748 56.6928 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 280.9748 56.6928 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 280.9748 56.6928 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7a4835e-1f3f-4905-9e82-c9aa8492cb63))
-    (pin "2" (uuid 3526fcef-c006-4010-8c6e-59eee299f9af))
+    (pin "1" (uuid ec6fd22e-6d80-4b7f-bbae-0af44760debe))
+    (pin "2" (uuid 38a025e1-3ccb-4bd7-96ab-8606a741d279))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8066,14 +8066,14 @@
     (property "Value" "MX_SW_solder" (at 283.8196 103.4796 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 283.8196 98.9076 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 283.8196 98.9076 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 283.8196 98.9076 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3a278d0-04d7-4aad-8b3f-9a379d668888))
-    (pin "2" (uuid 4d719fef-f15c-476b-9b22-83cb94b320bb))
+    (pin "1" (uuid 521a6f9d-4b49-48fb-8b72-e9ba2c184c56))
+    (pin "2" (uuid 99294e89-1e9a-4b6a-88ef-299c5eede7e8))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8166,14 +8166,14 @@
     (property "Value" "MX_SW_solder" (at 243.332 75.5904 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 243.332 71.0184 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 243.332 71.0184 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 243.332 71.0184 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6ca9579-ed13-42b5-888b-137b2cbf5c05))
-    (pin "2" (uuid 4e7c7e8b-5bf2-4eb3-adb3-152120ec3ae2))
+    (pin "1" (uuid 5634faca-5385-432c-bfae-09394c7f4d2c))
+    (pin "2" (uuid 3df08f0b-df24-47ac-8ad3-e8c612b11c18))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8477,14 +8477,14 @@
     (property "Value" "MX_SW_solder" (at 247.5263 122.4409 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 247.5263 117.8689 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 247.5263 117.8689 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.5263 117.8689 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cbf61803-394d-4fc5-8123-5209b322fca5))
-    (pin "2" (uuid 1e7808a0-1631-4b70-8576-b80c251d3be4))
+    (pin "1" (uuid b71ee4fe-a7bd-4980-92d8-58d25f3e3533))
+    (pin "2" (uuid b8220c70-a2d2-4010-bee2-ea0663745161))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8573,14 +8573,14 @@
     (property "Value" "MX_SW_solder" (at 293.4716 97.6376 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 293.4716 93.0656 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 293.4716 93.0656 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 293.4716 93.0656 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4628642c-e491-40d0-95c2-840f3be32274))
-    (pin "2" (uuid 318d05ee-8e64-47b8-ae20-5a5ef20587ec))
+    (pin "1" (uuid de1fc386-67b8-4571-998a-4464d831ed4e))
+    (pin "2" (uuid 4c691fba-06fd-419b-b584-f7afdb7980bf))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8623,14 +8623,14 @@
     (property "Value" "MX_SW_HS" (at 284.226 113.2332 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 284.226 118.6688 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 284.226 118.6688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 284.226 118.6688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d27eb1b2-650b-4495-87a9-c92da4ef6710))
-    (pin "2" (uuid 96eb5758-6fe4-412e-b647-7d69dc909882))
+    (pin "1" (uuid 79517bf6-de4b-4d00-b2eb-3bb97130400e))
+    (pin "2" (uuid aea58112-f3f9-44e4-a229-e178c9e059c5))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8754,14 +8754,14 @@
     (property "Value" "MX_SW_solder" (at 257.8608 115.6208 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 257.8608 111.0488 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 257.8608 111.0488 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 257.8608 111.0488 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ff9e7948-5c42-44be-8fe7-fbcebb3644fc))
-    (pin "2" (uuid dfae707f-586f-4c32-b635-de91de540b5f))
+    (pin "1" (uuid 0964fe2e-fe1d-4d56-8d64-e117ca950205))
+    (pin "2" (uuid 7fafba6c-cb54-4fef-b4b3-5bf6dda1b8a6))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8815,14 +8815,14 @@
     (property "Value" "MX_SW_solder" (at 301.3456 75.692 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 301.3456 71.12 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 301.3456 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 301.3456 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dd27d5d9-4dd0-49da-83d9-cbf7dba9d8dc))
-    (pin "2" (uuid 0247f8b8-ccac-4330-a5af-b099bef5cdce))
+    (pin "1" (uuid 36f3ef98-1224-45e9-9fbc-ff997f50bfd8))
+    (pin "2" (uuid a8e3b552-76e8-4a04-9d47-5917340ca022))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8841,14 +8841,14 @@
     (property "Value" "MX_SW_HS" (at 257.8608 105.6132 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 257.8608 111.0488 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 257.8608 111.0488 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 257.8608 111.0488 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0465e0da-137c-4075-bfc6-224727643deb))
-    (pin "2" (uuid d798c982-971a-4838-80f0-494f599a0cda))
+    (pin "1" (uuid 4cff60e1-a05e-41a1-9359-dc33213a36ce))
+    (pin "2" (uuid 2f6a1b60-cfcc-435e-80bc-041b7e6673c4))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8891,14 +8891,14 @@
     (property "Value" "MX_SW_HS" (at 233.0196 64.262 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 233.0196 69.6976 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 233.0196 69.6976 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 233.0196 69.6976 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 465b843f-f3f5-447b-a3e9-f9de03f408bd))
-    (pin "2" (uuid d3b22520-c935-43b8-a863-37e0af7db713))
+    (pin "1" (uuid 323b2c1c-15b9-458d-b3e8-8ae6a52b5546))
+    (pin "2" (uuid 0d7b03cd-9792-441d-867c-6cab12b31c74))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8956,14 +8956,14 @@
     (property "Value" "MX_SW_HS" (at 243.332 65.5828 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_1u" (at 243.332 71.0184 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 243.332 71.0184 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 243.332 71.0184 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a53993e-5d8e-41cb-92fd-89235a9ca137))
-    (pin "2" (uuid b8f9ba48-0c17-4a31-920e-16ecd53d0867))
+    (pin "1" (uuid eb1ffa4e-4c9a-4a0f-b4ea-b9d460de156b))
+    (pin "2" (uuid 11df5119-5ca4-41e4-9c30-2f0fce029a83))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
@@ -8982,14 +8982,14 @@
     (property "Value" "MX_SW_solder" (at 222.25 75.8952 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 222.25 71.3232 0)
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_1u" (at 222.25 71.3232 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 222.25 71.3232 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 084f328f-ca00-4fc9-85ea-9f1db9f78f60))
-    (pin "2" (uuid 0e90151d-9791-4774-a229-10f44bbf227e))
+    (pin "1" (uuid 56707411-c7cd-403c-9de3-8316f188ed15))
+    (pin "2" (uuid 71b9cfa6-3748-4613-b90b-aa10162bed3a))
     (instances
       (project "Schism PCB"
         (path "/a45aa147-a75a-434e-9c3b-7ed91f3a0447"
