@@ -3,4 +3,5 @@
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
   (lib (name "1999")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/1999")(options "")(descr ""))
   (lib (name "qw-logo")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/qw-logo")(options "")(descr ""))
+  (lib (name "PCA9671PW")(type "KiCad")(uri "${KIPRJMOD}/PCA9671PW/PCA9671PW.pretty")(options "")(descr ""))
 )
